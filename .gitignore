@@ -103,4 +103,19 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+# IntelliJ project files
+*.iml
 .idea/
+
+# Virtualenv
+venv/
+
+# Django stuff:
+*.log
+local_settings.py
+*.sqlite3
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
